@@ -42,7 +42,7 @@
         "wk:page":"Galechugaon"
     },
     "wof:country":"BT",
-    "wof:geomhash":"5e4bafb08c5bbf58c65532c4b3149b6e",
+    "wof:geomhash":"adbf06841012276cf97aee83e7ac1227",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     90.53333,
     27.0
 ],
-  "geometry": {"coordinates":[90.53333000000001,27.0],"type":"Point"}
+  "geometry": {"coordinates":[90.53333,27],"type":"Point"}
 }

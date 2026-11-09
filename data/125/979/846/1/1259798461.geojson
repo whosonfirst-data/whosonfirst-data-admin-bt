@@ -47,7 +47,7 @@
         "wk:page":"Sharithang"
     },
     "wof:country":"BT",
-    "wof:geomhash":"4d8c4057059b1e29f7876f4c2a948f49",
+    "wof:geomhash":"1219b05a39b4d87b5bf11327bbe66f86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     89.01666999999998,
     27.41667
 ],
-  "geometry": {"coordinates":[89.01666999999998,27.41667],"type":"Point"}
+  "geometry": {"coordinates":[89.01667,27.41667],"type":"Point"}
 }

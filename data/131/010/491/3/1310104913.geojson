@@ -42,7 +42,7 @@
         "wk:page":"Kurjey"
     },
     "wof:country":"BT",
-    "wof:geomhash":"93e18726b532d23474ef1436a74feb8b",
+    "wof:geomhash":"00e6aedba62ff7fe7a2f052ec26caebc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     90.7,
     27.61667000000001
 ],
-  "geometry": {"coordinates":[90.7,27.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.7,27.61667],"type":"Point"}
 }

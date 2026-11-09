@@ -42,7 +42,7 @@
         "wk:page":"Shingkarap"
     },
     "wof:country":"BT",
-    "wof:geomhash":"597747bf7b86211545e6f455bf2ad28a",
+    "wof:geomhash":"2a14736d92175907ee5bdc5dc2290eee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     89.26666999999998,
     27.61667000000001
 ],
-  "geometry": {"coordinates":[89.26666999999998,27.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.26667,27.61667],"type":"Point"}
 }

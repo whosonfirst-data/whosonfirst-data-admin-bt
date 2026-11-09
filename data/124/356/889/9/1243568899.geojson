@@ -42,7 +42,7 @@
         "wk:page":"Pinsoperi"
     },
     "wof:country":"BT",
-    "wof:geomhash":"66800e4a1e8021b06986743a4079f60d",
+    "wof:geomhash":"b21f9d41620b4edc78a539a4529d78fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     89.95,
     27.11667000000001
 ],
-  "geometry": {"coordinates":[89.95,27.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.95,27.11667],"type":"Point"}
 }

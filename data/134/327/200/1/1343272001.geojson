@@ -53,7 +53,7 @@
         "gn:id":1252434
     },
     "wof:country":"BT",
-    "wof:geomhash":"5cdd5b9a5108f3015ea207cb5306613d",
+    "wof:geomhash":"15603545926be3bfc90642d73e4e07f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     90.98333,
     26.86667000000001
 ],
-  "geometry": {"coordinates":[90.98333,26.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.98333,26.86667],"type":"Point"}
 }

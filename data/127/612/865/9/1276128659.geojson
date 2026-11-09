@@ -42,7 +42,7 @@
         "wk:page":"Kisona"
     },
     "wof:country":"BT",
-    "wof:geomhash":"d8a34cfde4847354fe84356c3d852ec1",
+    "wof:geomhash":"ef91ef28e4636215a6f4d95519650de8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     90.0,
     27.25
 ],
-  "geometry": {"coordinates":[90.0,27.25],"type":"Point"}
+  "geometry": {"coordinates":[90,27.25],"type":"Point"}
 }

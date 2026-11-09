@@ -45,7 +45,7 @@
         "wk:page":"Tala%2C_Bhutan"
     },
     "wof:country":"BT",
-    "wof:geomhash":"4f45ebea9e16a96b9a08044d3f712609",
+    "wof:geomhash":"b64651323ef66a8bd65d1a18d09baea6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     89.56667,
     26.86667000000001
 ],
-  "geometry": {"coordinates":[89.56667,26.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.56667,26.86667],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Hlari"
     },
     "wof:country":"BT",
-    "wof:geomhash":"a42a511449a545b0321e0f70446b3394",
+    "wof:geomhash":"a8d095118da7f7dba1f41bd9d8519250",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     88.98333000000002,
     27.4
 ],
-  "geometry": {"coordinates":[88.98333000000002,27.4],"type":"Point"}
+  "geometry": {"coordinates":[88.98333,27.4],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Naktsang"
     },
     "wof:country":"BT",
-    "wof:geomhash":"a414f9325fd9adb92f64dadff683c3ce",
+    "wof:geomhash":"4e720b173ab1aca22bd40195e98ceffc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     89.26666999999998,
     27.38333
 ],
-  "geometry": {"coordinates":[89.26666999999998,27.38333],"type":"Point"}
+  "geometry": {"coordinates":[89.26667,27.38333],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Chilo%2C_Bhutan"
     },
     "wof:country":"BT",
-    "wof:geomhash":"f3005c06fa75ba5d6cc4fae2469b8385",
+    "wof:geomhash":"f4286456d4413d339afdbc4ee25442f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     90.0,
     27.55
 ],
-  "geometry": {"coordinates":[90.0,27.55],"type":"Point"}
+  "geometry": {"coordinates":[90,27.55],"type":"Point"}
 }
