@@ -1,0 +1,75 @@
+{
+  "id": 9895012872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.91667,27.41667,90.91667,27.41667",
+    "geom:latitude":27.41667,
+    "geom:longitude":90.91667,
+    "gn:population":2288,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1252401: name \"Ura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1252401"
+        },
+        {
+            "citation":"GeoNames populated place 1252401: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1252401"
+        },
+        {
+            "citation":"GeoNames populated place 1252401: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1252401"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747693 (Ura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669537,
+        102191569,
+        1108747693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252401
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"7fce0ff4a7188b31064b68b2ed56beee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747693,
+            "locality_id":9895012872,
+            "region_id":85669537
+        }
+    ],
+    "wof:id":9895012872,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Ura",
+    "wof:parent_id":1108747693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.91667,
+    27.41667,
+    90.91667,
+    27.41667
+],
+  "geometry": {"coordinates":[90.91667,27.41667],"type":"Point"}
+}

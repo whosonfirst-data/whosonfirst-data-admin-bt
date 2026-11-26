@@ -1,0 +1,74 @@
+{
+  "id": 9895012881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.54,27.29,91.54,27.29",
+    "geom:latitude":27.29,
+    "geom:longitude":91.54,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7647496: name \"Kanglung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7647496"
+        },
+        {
+            "citation":"GeoNames populated place 7647496: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7647496"
+        },
+        {
+            "citation":"GeoNames populated place 7647496: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7647496"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748291 (Kanglung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669583,
+        102191569,
+        1108748291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647496
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"99abc14cb2205814a0456db5b053172f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748291,
+            "locality_id":9895012881,
+            "region_id":85669583
+        }
+    ],
+    "wof:id":9895012881,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Kanglung",
+    "wof:parent_id":1108748291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.54,
+    27.29,
+    91.54,
+    27.29
+],
+  "geometry": {"coordinates":[91.54,27.29],"type":"Point"}
+}

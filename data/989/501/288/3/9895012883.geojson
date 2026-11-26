@@ -1,0 +1,74 @@
+{
+  "id": 9895012883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.54972,26.85,89.54972,26.85",
+    "geom:latitude":26.85,
+    "geom:longitude":89.54972,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 9072792: name \"Dala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/9072792"
+        },
+        {
+            "citation":"GeoNames populated place 9072792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/9072792"
+        },
+        {
+            "citation":"GeoNames populated place 9072792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/9072792"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747321 (Dala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669501,
+        102191569,
+        1108747321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072792
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"b0d3b8458fe2a2fc96dd87375068a255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747321,
+            "locality_id":9895012883,
+            "region_id":85669501
+        }
+    ],
+    "wof:id":9895012883,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Dala",
+    "wof:parent_id":1108747321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.54972,
+    26.85,
+    89.54972,
+    26.85
+],
+  "geometry": {"coordinates":[89.54972,26.85],"type":"Point"}
+}

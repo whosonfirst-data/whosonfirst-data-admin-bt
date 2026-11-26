@@ -1,0 +1,75 @@
+{
+  "id": 9895012880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.6826,28.0613,89.6826,28.0613",
+    "geom:latitude":28.0613,
+    "geom:longitude":89.6826,
+    "gn:population":2000,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1337389: name \"Laya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1337389"
+        },
+        {
+            "citation":"GeoNames populated place 1337389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1337389"
+        },
+        {
+            "citation":"GeoNames populated place 1337389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1337389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747477 (Laya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669521,
+        102191569,
+        1108747477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337389
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"1d9c1e0de3b019b3ce4bebcb36fd4e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747477,
+            "locality_id":9895012880,
+            "region_id":85669521
+        }
+    ],
+    "wof:id":9895012880,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Laya",
+    "wof:parent_id":1108747477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.6826,
+    28.0613,
+    89.6826,
+    28.0613
+],
+  "geometry": {"coordinates":[89.6826,28.0613],"type":"Point"}
+}

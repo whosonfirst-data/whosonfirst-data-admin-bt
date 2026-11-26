@@ -1,0 +1,74 @@
+{
+  "id": 9895012882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.90348,27.47899,90.90348,27.47899",
+    "geom:latitude":27.47899,
+    "geom:longitude":90.90348,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8430201: name \"Shingkhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8430201"
+        },
+        {
+            "citation":"GeoNames populated place 8430201: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8430201"
+        },
+        {
+            "citation":"GeoNames populated place 8430201: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8430201"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747693 (Ura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669537,
+        102191569,
+        1108747693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430201
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"729833efb1330e569f31e5c6314ba957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747693,
+            "locality_id":9895012882,
+            "region_id":85669537
+        }
+    ],
+    "wof:id":9895012882,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Shingkhar",
+    "wof:parent_id":1108747693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.90348,
+    27.47899,
+    90.90348,
+    27.47899
+],
+  "geometry": {"coordinates":[90.90348,27.47899],"type":"Point"}
+}

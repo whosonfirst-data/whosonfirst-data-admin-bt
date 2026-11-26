@@ -1,0 +1,74 @@
+{
+  "id": 9895012884,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51586,27.41071,90.51586,27.41071",
+    "geom:latitude":27.41071,
+    "geom:longitude":90.51586,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670039: name \"Kungarapten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670039"
+        },
+        {
+            "citation":"GeoNames populated place 11670039: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670039"
+        },
+        {
+            "citation":"GeoNames populated place 11670039: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670039"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747351 (Dragteng), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669563,
+        102191569,
+        1108747351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670039
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"80ad215035cbe1c8cef474772368366d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747351,
+            "locality_id":9895012884,
+            "region_id":85669563
+        }
+    ],
+    "wof:id":9895012884,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Kungarapten",
+    "wof:parent_id":1108747351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51586,
+    27.41071,
+    90.51586,
+    27.41071
+],
+  "geometry": {"coordinates":[90.51586,27.41071],"type":"Point"}
+}

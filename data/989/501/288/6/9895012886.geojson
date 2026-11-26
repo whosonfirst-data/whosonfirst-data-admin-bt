@@ -1,0 +1,74 @@
+{
+  "id": 9895012886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.509,27.407,91.509,27.407",
+    "geom:latitude":27.407,
+    "geom:longitude":91.509,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719860: name \"Jamkhar Gewog\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719860"
+        },
+        {
+            "citation":"GeoNames populated place 12719860: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719860"
+        },
+        {
+            "citation":"GeoNames populated place 12719860: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719860"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747419 (Jamkhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669555,
+        102191569,
+        1108747419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719860
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"baa482913c2356c7c15765a32f48d1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747419,
+            "locality_id":9895012886,
+            "region_id":85669555
+        }
+    ],
+    "wof:id":9895012886,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Jamkhar Gewog",
+    "wof:parent_id":1108747419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.509,
+    27.407,
+    91.509,
+    27.407
+],
+  "geometry": {"coordinates":[91.509,27.407],"type":"Point"}
+}

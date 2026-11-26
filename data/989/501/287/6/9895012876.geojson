@@ -1,0 +1,74 @@
+{
+  "id": 9895012876,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.287,27.114,91.287,27.114",
+    "geom:latitude":27.114,
+    "geom:longitude":91.287,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1252544: name \"Kengkhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1252544"
+        },
+        {
+            "citation":"GeoNames populated place 1252544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1252544"
+        },
+        {
+            "citation":"GeoNames populated place 1252544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1252544"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748299 (Kengkhar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669571,
+        102191569,
+        1108748299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252544
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"4c629e9a2ae513cad9e4ef1440ed5447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748299,
+            "locality_id":9895012876,
+            "region_id":85669571
+        }
+    ],
+    "wof:id":9895012876,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Kengkhar",
+    "wof:parent_id":1108748299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.287,
+    27.114,
+    91.287,
+    27.114
+],
+  "geometry": {"coordinates":[91.287,27.114],"type":"Point"}
+}

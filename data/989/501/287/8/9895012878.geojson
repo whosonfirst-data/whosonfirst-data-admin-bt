@@ -1,0 +1,74 @@
+{
+  "id": 9895012878,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.041,26.935,89.041,26.935",
+    "geom:latitude":26.935,
+    "geom:longitude":89.041,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1337361: name \"Chengmari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1337361"
+        },
+        {
+            "citation":"GeoNames populated place 1337361: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1337361"
+        },
+        {
+            "citation":"GeoNames populated place 1337361: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1337361"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747297 (Chengmari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669523,
+        102191569,
+        1108747297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337361
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"343a3cc5e2edc8b018051d01e9ad5295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747297,
+            "locality_id":9895012878,
+            "region_id":85669523
+        }
+    ],
+    "wof:id":9895012878,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Chengmari",
+    "wof:parent_id":1108747297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.041,
+    26.935,
+    89.041,
+    26.935
+],
+  "geometry": {"coordinates":[89.041,26.935],"type":"Point"}
+}

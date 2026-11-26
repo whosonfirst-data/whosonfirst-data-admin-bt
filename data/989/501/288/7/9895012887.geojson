@@ -1,0 +1,74 @@
+{
+  "id": 9895012887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.00602,26.94849,89.00602,26.94849",
+    "geom:latitude":26.94849,
+    "geom:longitude":89.00602,
+    "iso:country":"BT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719990: name \"Ugentse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719990"
+        },
+        {
+            "citation":"GeoNames populated place 12719990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719990"
+        },
+        {
+            "citation":"GeoNames populated place 12719990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719990"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747689 (Ugentse), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171,
+        85669523,
+        102191569,
+        1108747689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719990
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"031f5c6584ea61a6efb877dc3ac49a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747689,
+            "locality_id":9895012887,
+            "region_id":85669523
+        }
+    ],
+    "wof:id":9895012887,
+    "wof:lastmodified":1795735170,
+    "wof:name":"Ugentse",
+    "wof:parent_id":1108747689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.00602,
+    26.94849,
+    89.00602,
+    26.94849
+],
+  "geometry": {"coordinates":[89.00602,26.94849],"type":"Point"}
+}
